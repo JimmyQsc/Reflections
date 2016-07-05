@@ -32,4 +32,19 @@ structure?
 The diagrams can show you the path of commit you've
 made, its like a road map, you can fllow the foot print
 to know where you are.
+5. What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+Merging two branches will create a new commit to the checked-
+out branch, this commit contains all the changes from both
+branches.
+the merged commit will have two parents.
+6. What are the pros and cons of Git’s automatic merging
+vs. always doing merges manually?
+Git's auromatic merge is very efficent and can save developer
+a lot of time, for the most time it won't make mistakes. but it
+can cause some miatake in some cases. for example, if one branch
+deleted a function, and another branch added a call to that
+function, Git would merge those together with no conflict
+and the resulting code would be broken.
+
 
