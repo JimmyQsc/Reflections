@@ -27,3 +27,9 @@ when i wnant to add a experimental feature to the project,
 but i want the current version to be functional and continue
 to improve it, i can work on both branches without affect
 one another.
+4. How do the diagrams help you visualize the branch
+structure?
+The diagrams can show you the path of commit you've
+made, its like a road map, you can fllow the foot print
+to know where you are.
+
