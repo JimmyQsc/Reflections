@@ -46,5 +46,3 @@ can cause some miatake in some cases. for example, if one branch
 deleted a function, and another branch added a call to that
 function, Git would merge those together with no conflict
 and the resulting code would be broken.
-
-

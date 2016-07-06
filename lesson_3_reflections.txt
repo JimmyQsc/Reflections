@@ -8,3 +8,16 @@ rather than having Git automatically stay up-to-date with
 your remote repository?
 when i working locally, i don't want my code to change while
 i'm working on it.
+3. Describe the differences between forks, clones, and
+branches. When would you use one instead of another?
+fork is a special feature provided by github, it allows you
+to copy/clone one's repo into your github profile, its basically
+clone it on github's server, and it will keep track of the number
+ of fork one get. i use it to copy other people's repo to my
+account and modify it on my own and i can share it with others
+on github.
+clones are git repositories copied from other places, it is
+exactly like the original one, clone from github will set the repo
+one github the remote to the local one.
+branches are created in the same repo, and branches has its name
+can be merged with other branch to create a merge commit.
