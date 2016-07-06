@@ -25,3 +25,13 @@ can be merged with other branch to create a merge commit.
 state of the remote stored locally?
 i can work offline with that state, and perform merge while i'm
 offline.
+5. How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+I would use a IM software or meet with others to collaborate
+i also have to copy all file to that person. git and gitHub are
+difinetely the better solution.
+6. When would you want to make changes in a separate branch rather
+ than directly in master? What benefits does each approach have?
+when working with a lage group of people, its better to create separate
+branch, when working on my own, it's convinient to working on master
+branch.
