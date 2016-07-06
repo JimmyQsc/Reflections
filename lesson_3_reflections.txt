@@ -21,3 +21,7 @@ exactly like the original one, clone from github will set the repo
 one github the remote to the local one.
 branches are created in the same repo, and branches has its name
 can be merged with other branch to create a merge commit.
+4. What is the benefit of having a copy of the last known
+state of the remote stored locally?
+i can work offline with that state, and perform merge while i'm
+offline.
